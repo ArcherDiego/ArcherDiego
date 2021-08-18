@@ -2,7 +2,7 @@
 
 👨‍🎓As minhas formações são: ensino superior completo em Automação industrial pela FAM Faculdade das Américas e ensino técnico em mecatrônica pelo SENAI Armando de Arruda Pereira.
 
-👨‍💻Tenho conhecimentos sobre: Excel, Word, C, C++, Inventor, AutoCad, elétrica e eletrônica.
+👨‍💻Tenho conhecimentos sobre: HTML, CSS, C, C++, Bootstrap e JavaScript.
 
 💪Minha palavra chave é dedicação.
 
